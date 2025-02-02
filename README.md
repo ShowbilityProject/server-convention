@@ -3,6 +3,8 @@
 
 지난 몇 년간 프로덕션 환경에서 사용하면서, 개발 경험에 크게 영향을 준 좋은 결정들과 나쁜 결정들을 해왔습니다. 그중 일부는 공유할 가치가 있다고 생각됩니다. 
 
+[해당 구조 예시 레포](https://github.com/zhanymkanov/fastapi_production_template/tree/9d548b212232b41e101b36b714e144e4e26260b0)
+
 ## 목차  <!-- omit from toc -->
 - [프로젝트 구조](#프로젝트-구조)
 - [비동기 라우트(Async Routes)](#비동기-라우트async-routes)
